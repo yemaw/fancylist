@@ -27,7 +27,7 @@ $_configs['show_about']   = '';
 
 <?php
 /**
- * Do not edit from here..
+ * Do not edit from here.
  */
 
 function filesize_convert($size) 
