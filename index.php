@@ -27,10 +27,6 @@ $_configs['show_about']   = '';
  * Do not edit from here.
  */
 
- /**
-* Helper Functions
-*/
-
 function filesize_convert($size) 
 {
     if ($size <= 1024) return $size.' Bytes';
