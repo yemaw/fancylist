@@ -7,6 +7,7 @@
 * +--------------------------------------------------------------------------------------+ 
 */
 
+
 //path to system resource url
 $_configs['fl_url']       = 'http://localhost/fancylist/'; 
 //home url in menu. leave blank or auto for auto detect host
