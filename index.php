@@ -23,7 +23,7 @@ $_configs['show_about']   = '';
 
 <?php
 /**
-* Helper Functions
+* Helper Functions.
 */
 
 
